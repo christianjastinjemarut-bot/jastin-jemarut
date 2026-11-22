@@ -1,0 +1,13 @@
+{
+  "name": "Jastin Jemarut",
+  "short_name": "Jastin",
+  "description": "Website pribadi Jastin Jemarut.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
